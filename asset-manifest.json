@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Simba-Academy/static/css/main.5573b742.chunk.css",
+    "main.js": "/Simba-Academy/static/js/main.bcfae14f.chunk.js",
+    "main.js.map": "/Simba-Academy/static/js/main.bcfae14f.chunk.js.map",
+    "runtime-main.js": "/Simba-Academy/static/js/runtime-main.20f56595.js",
+    "runtime-main.js.map": "/Simba-Academy/static/js/runtime-main.20f56595.js.map",
+    "static/css/2.092bdb55.chunk.css": "/Simba-Academy/static/css/2.092bdb55.chunk.css",
+    "static/js/2.4aff5ac3.chunk.js": "/Simba-Academy/static/js/2.4aff5ac3.chunk.js",
+    "static/js/2.4aff5ac3.chunk.js.map": "/Simba-Academy/static/js/2.4aff5ac3.chunk.js.map",
+    "index.html": "/Simba-Academy/index.html",
+    "precache-manifest.c50fe1895c74c8eb0cb65fd6ba8afeaf.js": "/Simba-Academy/precache-manifest.c50fe1895c74c8eb0cb65fd6ba8afeaf.js",
+    "service-worker.js": "/Simba-Academy/service-worker.js",
+    "static/css/2.092bdb55.chunk.css.map": "/Simba-Academy/static/css/2.092bdb55.chunk.css.map",
+    "static/css/main.5573b742.chunk.css.map": "/Simba-Academy/static/css/main.5573b742.chunk.css.map",
+    "static/js/2.4aff5ac3.chunk.js.LICENSE.txt": "/Simba-Academy/static/js/2.4aff5ac3.chunk.js.LICENSE.txt",
+    "static/media/homepage.css": "/Simba-Academy/static/media/vacant.afe69dea.jpg",
+    "static/media/slick-theme.css": "/Simba-Academy/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20f56595.js",
+    "static/css/2.092bdb55.chunk.css",
+    "static/js/2.4aff5ac3.chunk.js",
+    "static/css/main.5573b742.chunk.css",
+    "static/js/main.bcfae14f.chunk.js"
+  ]
+}
